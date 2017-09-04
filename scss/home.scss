@@ -76,7 +76,11 @@ header {
 }
 .social-wrapper {
   a {
+    position: relative;
     margin-left: .8rem;
+  }
+  a:hover {
+    top: -3px;
   }
 }
 .bannerimg {

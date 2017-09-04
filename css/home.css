@@ -62,7 +62,10 @@ header {
   display: inline-block; }
 
 .social-wrapper a {
+  position: relative;
   margin-left: .8rem; }
+.social-wrapper a:hover {
+  top: -3px; }
 
 .bannerimg {
   margin-top: 80px;
