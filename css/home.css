@@ -65,7 +65,12 @@ header {
   position: relative;
   margin-left: .8rem; }
 .social-wrapper a:hover {
+<<<<<<< HEAD
   top: -3px; }
+=======
+  top: -3px;
+}
+>>>>>>> 2161e3c2e626a9a5582ce6a3b0877602e875d72d
 
 .bannerimg {
   background-image: url("../images/bannerimg.gif");
