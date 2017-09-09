@@ -68,13 +68,12 @@ header {
   top: -3px; }
 
 .bannerimg {
-  margin-top: 80px;
-  background-image: url("../images/bannerimg.jpg");
+  background-image: url("../images/bannerimg.gif");
   background-repeat: no-repeat;
   height: 700px;
   width: auto;
   background-size: cover;
-  background-position: 0% 60%; }
+  background-attachment: fixed; }
 
 .carousel-inner {
   height: 650px; }
@@ -116,7 +115,7 @@ header {
 
 .subscribe {
   background-color: #000000;
-  padding-top: 100px; }
+  padding-top: 40px; }
   .subscribe .wrapper {
     text-align: center; }
   .subscribe a:hover {
