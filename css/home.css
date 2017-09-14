@@ -156,11 +156,11 @@ footer {
   footer img {
     height: 3rem;
     width: auto; }
-  footer a {
+  footer .link {
     position: relative;
     left: 38px;
     top: -5px; }
-  footer a:hover {
+  footer .link:hover {
     position: relative;
     top: -7px; }
   footer span {
